@@ -33,10 +33,6 @@ const Main = () => {
             <br />
             World
           </span> */}
-
-          <div class="box-content h-32 w-40 p-4 border-4 ">
-            <p className="truncate">afsjkahfasjkhfakjzfjhjksdhfksjfgjk</p>
-          </div>
          
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a href="#" target="_blank" rel="noreferrer">
