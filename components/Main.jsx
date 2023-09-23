@@ -21,19 +21,9 @@ const Main = () => {
             integrating back-end technologies.
           </p>
 
-        
+          
 
-          {/* <span className="box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 ...">
-            Hello
-            <br />
-            World
-          </span> */}
-          {/* <span className="box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 ...">
-            Hello
-            <br />
-            World
-          </span> */}
-         
+       
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a href="#" target="_blank" rel="noreferrer">
               <div className="rounded-full hover:text-[#5651e5] shadow-sm shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
@@ -55,7 +45,21 @@ const Main = () => {
                 <BsFillPersonLinesFill />
               </div>
             </Link>
+
+
+            
           </div>
+
+{/* <div className="grid xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 xs:grid-col-1 gap-10 ">
+<button className="p-2">Lorem, ipsum dolor.</button>
+<button className="p-2">Lorem, ipsum.</button>
+<button className="p-2 grid sm:col-span-2 md:col-span-1">Lorem ipsum dolor sit amet.</button>
+</div> */}
+
+
+
+         
+
         </div>
       </div>
     </div>
